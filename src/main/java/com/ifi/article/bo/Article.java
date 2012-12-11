@@ -1,4 +1,4 @@
-package com.ifi.article.dao;
+package com.ifi.article.bo;
 
 public class Article {
 
