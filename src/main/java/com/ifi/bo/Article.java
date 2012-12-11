@@ -1,4 +1,4 @@
-package com.ifi.article.bo;
+package com.ifi.bo;
 
 public class Article {
 

@@ -6,7 +6,7 @@ import javax.jws.WebService;
 
 import org.springframework.stereotype.Service;
 
-import com.ifi.article.bo.Article;
+import com.ifi.bo.Article;
 
 /**
  * @question 1.4 implémentation du web service banquaire

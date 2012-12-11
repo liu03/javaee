@@ -4,7 +4,7 @@ import java.util.List;
 
 import javax.jws.WebService;
 
-import com.ifi.article.bo.Article;
+import com.ifi.bo.Article;
 
 /**
  * @question 1.4 Interface du web service banquaire
